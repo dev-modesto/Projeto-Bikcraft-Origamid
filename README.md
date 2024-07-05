@@ -17,7 +17,6 @@ Projeto Bikcraft do curso de <strong><a href="https://www.origamid.com/curso/htm
 
 
   <img width="140" height="auto"  src="https://github.com/dev-modesto/Projeto-Bikcraft-Origamid/assets/122651099/7c678bb5-74ae-4be7-b24a-a5a8d894a51e">
-">
 
 
 </div>
